@@ -1,0 +1,2 @@
+
+2015/03/22 02:39:04 ERROR - jmeter.threads.JMeterThread: Test failed! java.lang.NoClassDefFoundError: Could not initialize class org.apache.http.impl.conn.ManagedHttpClientConnectionFactory
